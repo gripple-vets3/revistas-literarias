@@ -27,7 +27,6 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 * [La palabra y el hombre](https://lapalabrayelhombre.uv.mx/index.php/palabrahombre/issue/archive)
 * [Artes de Mexico](https://artesdemexico.com/blog)
 * [Granta](https://granta.com.es/)
-* [Temporales](https://wp.nyu.edu/gsas-revistatemporales/)
 * [La otra](https://laotrarevista.com/)
 * [Casa del tiempo (archivo)](https://www.uam.mx/difusion/revista/revcasa2019.html)
 * [Casa del tiempo](https://casadeltiempo.uam.mx/)
@@ -60,6 +59,7 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 * [Marabunta](https://revistamarabunta.net/)
 * [La Santa Critica](https://lasantacritica.com)
 * [Pirocromo](https://revistas.uaa.mx/pirocromo/issue/archive)
+* [Rialta](https://rialta.org/)
 
 ### Notas aclaratorias
 
@@ -77,6 +77,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 
 * [Péndola](https://pendola.mx/)
 * [Cultural Magazines of Latin America](https://digital.iai.spk-berlin.de/viewer/collections/lateinamerikanische-kulturzeitschriften/)
+* [Temporales](https://wp.nyu.edu/gsas-revistatemporales/)
 
 #### Mexico
 
@@ -135,10 +136,6 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Ajo blanco](https://www.ajoblanco.org/revistas)
 * [Edad de la plata](http://www.edaddeplata.org/revistas_edaddeplata/)
 * [Palimpsesto](https://www.revistapalimpsesto.com)
-
-#### Cuba
-
-* [Rialta](https://rialta.org/archivo/prensayrevistas/)
 
 ### Misceláneo
 
