@@ -104,6 +104,10 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Irradiación](https://irradiacion.com.mx/)
 * [Tianguis de Letras](https://publicaciones.uacm.edu.mx/boletin-tianguis-de-letras)
 
+#### Costa Rica
+
+* [CIICLA](https://repositorio.ciicla.ucr.ac.cr/handle/123456789/308)
+
 #### Argentina
 
 * [Ahira](https://ahira.com.ar/)
