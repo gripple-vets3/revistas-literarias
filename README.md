@@ -140,6 +140,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Ajo blanco](https://www.ajoblanco.org/revistas)
 * [Edad de la plata](http://www.edaddeplata.org/revistas_edaddeplata/)
 * [Palimpsesto](https://www.revistapalimpsesto.com)
+* [Ethic](https://ethic.es/)
 
 ### Misceláneo
 
