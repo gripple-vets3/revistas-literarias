@@ -135,6 +135,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 #### Venezuela
 
 * [POESIA](https://poesia.uc.edu.ve/)
+* [Letralia](https://letralia.com/)
 
 #### España
 
