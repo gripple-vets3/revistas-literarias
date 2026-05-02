@@ -150,6 +150,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Luna Cornea](https://ci.cultura.gob.mx/luna-cornea/)
 * [Bienal de Ilustración](https://bienaldeilustracion.com/)
 * [Bienal de Pintura Rufino Tamayo](https://www.museotamayo.org/publicaciones)
+* [Bienal J.A. Monroy](https://bienaljamonroy.udg.mx/ediciones-anteriores)
 * [Catálogo Histórico Conaliteg](https://historico.conaliteg.gob.mx/)
 * [MUAC](https://muac.unam.mx/publicaciones)
 * [Museo Jumex](https://www.fundacionjumex.org/es/explora/publicaciones?utm_source=ig&utm_medium=social)
