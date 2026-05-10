@@ -20,6 +20,7 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 
 ### Revistas Indexadas
 
+* [Material de Lectura](https://materialdelectura.unam.mx/)
 * [Conspiratio](https://conspiratio.mx)
 * [Cuadernos Hispanoamericanos](https://cuadernoshispanoamericanos.com)
 * [Opción](https://opcion.itam.mx)
@@ -58,7 +59,6 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 * [Timonel](https://revistatimonel.com)
 * [Marabunta](https://revistamarabunta.net/)
 * [La Santa Critica](https://lasantacritica.com)
-* [Pirocromo](https://revistas.uaa.mx/pirocromo/issue/archive)
 * [Rialta](https://rialta.org/)
 
 ### Notas aclaratorias
@@ -105,6 +105,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Irradiación](https://irradiacion.com.mx/)
 * [Tianguis de Letras](https://publicaciones.uacm.edu.mx/boletin-tianguis-de-letras)
 * [Purgante](https://revistapurgante.com/)
+* [Pirocromo](https://revistas.uaa.mx/pirocromo/issue/archive)
 
 #### Costa Rica
 
