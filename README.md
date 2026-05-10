@@ -44,7 +44,6 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 * [Liber](https://revista-liber.org/)
 * [Criticismo](https://criticismo.com/)
 * [Latin American Literature Today](https://latinamericanliteraturetoday.org/es/)
-* [Aion](https://aion.mx/)
 * [Caratula](https://caratula.net/)
 * [Literal Magazine](https://literalmagazine.com/)
 * [Circulo de poesia](https://circulodepoesia.com/)
@@ -106,6 +105,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Tianguis de Letras](https://publicaciones.uacm.edu.mx/boletin-tianguis-de-letras)
 * [Purgante](https://revistapurgante.com/)
 * [Pirocromo](https://revistas.uaa.mx/pirocromo/issue/archive)
+* [Aion](https://aion.mx/)
 
 #### Costa Rica
 
