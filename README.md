@@ -62,7 +62,7 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 
 ### Notas aclaratorias
 
-1. A la hora de jugar con las palabras, puede ser útil utilizar los operadores comunes de Google (-, "", site:), siendo que algunos sitios se puedan llegar a repetir en su aparición.
+1. A la hora de jugar con las palabras, puede ser útil utilizar los [operadores comunes de Google](https://static.platzi.com/media/user_upload/operadores-google-9bf800c7-064f-4896-bb96-d102308db37f.jpg)), para ser mas creativo en tu extravío.
 2. Para mejorar la experiencia, convendría tener instalado una extensión en el navegador para evitar que archivos PDF se descarguen automáticamente.
 3. Es posible agregar este organillero (¡Sí!, se escucha mejor que cilindrero) a los buscadores personalizados de un navegador usando "%s".
 4. Existen en los archivos de estas revistas (y de muchas otras) contenidos que están mal escaneados o son inaccesibles al no estar escaneados por OCR, o que tengan un visualizador que no es de ninguna forma un archivo que pueda ser reconocido por Google a la hora de hacer una búsqueda, por lo que si te interesa el flâneur o la errancia entre revistas, podrías consultar las redes o los repositorios de [Péndola](https://pendola.mx/).
