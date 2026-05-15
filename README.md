@@ -32,7 +32,7 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 * [Casa del tiempo (archivo)](https://www.uam.mx/difusion/revista/revcasa2019.html)
 * [Casa del tiempo](https://casadeltiempo.uam.mx/)
 * [Salida de emergencia](https://sdemergencia.com/)
-* [Revista 404](https://centroculturadigital.mx/revista-404)
+* [El Golem](https://www.revistaelgolem.com/)
 * [Fractal](https://mxfractal.org/)
 * [Biblioteca de Mexico](https://bibliotecademexico.gob.mx/revistabm/)
 * [Enpoli](https://enpoli.com.mx/)
@@ -108,6 +108,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Pirocromo](https://revistas.uaa.mx/pirocromo/issue/archive)
 * [Aion](https://aion.mx/)
 * [Marabunta](https://revistamarabunta.net/)
+* [Revista 404](https://centroculturadigital.mx/revista-404)
 
 #### Costa Rica
 
