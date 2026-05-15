@@ -82,6 +82,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 
 * [Museo Soumaya](https://www.museosoumaya.org/revistas-anteriores/)
 * [Estudios](https://estudios.itam.mx/es)
+* [La Colmena](https://lacolmena.uaemex.mx/issue/archive)
 * [El cuento](https://www.elcuentorevistadeimaginacion.org/)
 * [Radiador Magazine](https://drive.google.com/drive/folders/1UgT8dSlU2ac7M0f8xkHy5x3xllkFVBrC)
 * [Acequias](https://www.iberotorreon.mx/acequias.php)
