@@ -58,6 +58,7 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 * [Timonel](https://revistatimonel.com)
 * [La Santa Critica](https://lasantacritica.com)
 * [Rialta](https://rialta.org/)
+* [POESIA](https://poesia.uc.edu.ve/)
 
 ### Notas aclaratorias
 
@@ -141,14 +142,12 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 
 #### Venezuela
 
-* [POESIA](https://poesia.uc.edu.ve/)
 * [Letralia](https://letralia.com/)
 
 #### España
 
 * [Ajo blanco](https://www.ajoblanco.org/revistas)
 * [Edad de la plata](http://www.edaddeplata.org/revistas_edaddeplata/)
-
 * [Ethic](https://ethic.es/)
 
 ### Misceláneo
