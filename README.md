@@ -35,7 +35,7 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 * [El Golem](https://www.revistaelgolem.com/)
 * [Fractal](https://mxfractal.org/)
 * [Biblioteca de Mexico](https://bibliotecademexico.gob.mx/revistabm/)
-* [Enpoli](https://enpoli.com.mx/)
+* [Palimpsesto](https://www.revistapalimpsesto.com)
 * [Pagina Salmon](https://paginasalmon.com/)
 * [Punto en linea](https://puntoenlinea.unam.mx/)
 * [Revista de la Universidad](https://revistadelauniversidad.mx/)
@@ -109,6 +109,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Aion](https://aion.mx/)
 * [Marabunta](https://revistamarabunta.net/)
 * [Revista 404](https://centroculturadigital.mx/revista-404)
+* [Enpoli](https://enpoli.com.mx/)
 
 #### Costa Rica
 
@@ -147,7 +148,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 
 * [Ajo blanco](https://www.ajoblanco.org/revistas)
 * [Edad de la plata](http://www.edaddeplata.org/revistas_edaddeplata/)
-* [Palimpsesto](https://www.revistapalimpsesto.com)
+
 * [Ethic](https://ethic.es/)
 
 ### Misceláneo
