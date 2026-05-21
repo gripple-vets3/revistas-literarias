@@ -161,3 +161,4 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Museo Jumex](https://www.fundacionjumex.org/es/explora/publicaciones?utm_source=ig&utm_medium=social)
 * [Casa del Lago](https://casadellago.unam.mx/nuevo/archivo/publicaciones)
 * [Revistas de ficción latinoamericana](https://ficclat.github.io/ficclat/publicaciones/)
+* [Blast](https://revistablast.com/)
