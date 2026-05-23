@@ -81,6 +81,9 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 
 #### Mexico
 
+* [Conspiratio](https://www.conspiratio.mx/numeros-pasados) (archivo)
+* [La otra](https://www.laotrarevista.com/la-otra-revista-impresa-en-linea/) (archivo)
+* [La palabra y el hombre](https://cdigital.uv.mx/collections/5b7d2054-cc69-44aa-a4dc-435865e09195) (archivo)
 * [Museo Soumaya](https://www.museosoumaya.org/revistas-anteriores/)
 * [Estudios](https://estudios.itam.mx/es)
 * [La Colmena](https://lacolmena.uaemex.mx/issue/archive)
@@ -88,10 +91,8 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Radiador Magazine](https://drive.google.com/drive/folders/1UgT8dSlU2ac7M0f8xkHy5x3xllkFVBrC)
 * [Acequias](https://www.iberotorreon.mx/acequias.php)
 * [Palabrijes](https://uacm.edu.mx/palabrijes/)
-* [Conspiratio](https://www.conspiratio.mx/numeros-pasados) (archivo)
 * [Archivo Desobediente](https://archivodesobediente.chopo.unam.mx/index.php/Browse/objects/facet/type_facet/id/489/view/images/key/e7ea7a9363bf62768d1a37a4a0c78efa)
 * [Mi Valedor](https://www.mivaledor.com/category/revistas-digitales/)
-* [La otra](https://www.laotrarevista.com/la-otra-revista-impresa-en-linea/) (archivo)
 * [El buho](https://www.revistaelbuho.com.mx/)
 * [Alforja](https://www.yumpu.com/user/alforjapoesia.com)
 * [Timonel](https://revistatimonel.com/archivo/) (archivo)
