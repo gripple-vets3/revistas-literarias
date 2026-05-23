@@ -141,6 +141,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Santiago](https://revistasantiago.cl/#)
 * [Cinosargo](https://www.cinosargo.cl/)
 * [Carcaj](https://carcaj.cl/)
+* [Palabra pública](https://palabrapublica.uchile.cl/edicion-impresa/)
 
 #### Venezuela
 
