@@ -126,6 +126,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 #### Colombia
 
 * [Gaceta](https://gaceta.co/etapas-gaceta/etapa-2/)
+* [La raíz invertida](https://www.laraizinvertida.com/)
 
 #### Peru
 
