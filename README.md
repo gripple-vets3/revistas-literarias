@@ -148,6 +148,10 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 
 * [Letralia](https://letralia.com/)
 
+#### Puerto Rico
+
+* [Colección Puertorriqueña](https://issuu.com/coleccionpuertorriquena/stacks)
+
 #### España
 
 * [Ajo blanco](https://www.ajoblanco.org/revistas)
