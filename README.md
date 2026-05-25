@@ -78,6 +78,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Listado de revistas para publicar](https://perversionesdehombreave.blogspot.com/2018/01/listado-de-revistas-culturales-y.html?spref=fb)
 * [Cultural Magazines of Latin America](https://digital.iai.spk-berlin.de/viewer/collections/lateinamerikanische-kulturzeitschriften/)
 * [Temporales](https://wp.nyu.edu/gsas-revistatemporales/)
+* [Tres Orillas](https://tresorillas.com/)
 
 #### Mexico
 
