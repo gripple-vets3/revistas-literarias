@@ -85,6 +85,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Conspiratio](https://www.conspiratio.mx/numeros-pasados) (archivo)
 * [La otra](https://www.laotrarevista.com/la-otra-revista-impresa-en-linea/) (archivo)
 * [La palabra y el hombre](https://cdigital.uv.mx/collections/5b7d2054-cc69-44aa-a4dc-435865e09195) (archivo)
+* [Timonel](https://revistatimonel.com/archivo/) (archivo)
 * [Museo Soumaya](https://www.museosoumaya.org/revistas-anteriores/)
 * [Estudios](https://estudios.itam.mx/es)
 * [La Colmena](https://lacolmena.uaemex.mx/issue/archive)
@@ -96,7 +97,6 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Mi Valedor](https://www.mivaledor.com/category/revistas-digitales/)
 * [El buho](https://www.revistaelbuho.com.mx/)
 * [Alforja](https://www.yumpu.com/user/alforjapoesia.com)
-* [Timonel](https://revistatimonel.com/archivo/) (archivo)
 * [Castalida](https://foem.edomex.gob.mx/publicaciones-periodicas)
 * [Pliego 16](https://es.scribd.com/user/4243760/pliego16)
 * [Siempre!](https://issuu.com/siempremexico)
@@ -113,6 +113,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Marabunta](https://revistamarabunta.net/)
 * [Revista 404](https://centroculturadigital.mx/revista-404)
 * [Enpoli](https://enpoli.com.mx/)
+* [Metamorfosis](https://drive.google.com/drive/folders/1tiuU5ctj4N2059JfurHR0gki_gWBH_2z)
 
 #### Costa Rica
 
@@ -151,6 +152,10 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 #### Puerto Rico
 
 * [Colección Puertorriqueña](https://issuu.com/coleccionpuertorriquena/stacks)
+
+#### Cuba
+
+* [El Cuentero](https://linktr.ee/centro_oneliojorgecardoso)
 
 #### España
 
