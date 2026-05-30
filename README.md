@@ -163,6 +163,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Ajo blanco](https://www.ajoblanco.org/revistas)
 * [Edad de la plata](http://www.edaddeplata.org/revistas_edaddeplata/)
 * [Ethic](https://ethic.es/)
+* [HermanoCerdo](https://hermanocerdo.com/)
 
 ### Misceláneo
 
