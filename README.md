@@ -1,4 +1,4 @@
-# Revistas Literarias
+# Revistas Literarias 
 
 Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index.php/24-ct-vi-9/399-ct-vi-9-pequeno-andres-ilustrado-ernesto-juarez-rechy) para definirlo:
 
@@ -7,6 +7,8 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 **faz**. f. Andrés no desprecia a las palabras bajo ningún aspecto: pronunciadas, escritas (“delicia” no es lo mismo que “dlizia”), dibujadas, cantadas, esculpidas, actuadas, bailadas, etcétera.
 
 **imaginación**. f. Programa que permite acceder a información sobre un tema determinado. ǁ _Lugar para jugar_."
+
+[#Contralgoritmia](https://contralgoritmia.com/) [#](https://contralgoritmia.com/wp-content/uploads/2025/02/sellos_contralgoritmo01-300x300.png)
 
 ## Contenidos
 
@@ -179,3 +181,4 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Casa del Lago](https://casadellago.unam.mx/nuevo/archivo/publicaciones)
 * [Revistas de ficción latinoamericana](https://ficclat.github.io/ficclat/publicaciones/)
 * [Blast](https://revistablast.com/)
+* [Jot Down Cómics](https://comics.jotdown.es/)
