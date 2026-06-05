@@ -164,10 +164,12 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Edad de la plata](http://www.edaddeplata.org/revistas_edaddeplata/)
 * [Ethic](https://ethic.es/)
 * [HermanoCerdo](https://hermanocerdo.com/)
+* [Jot Down](https://www.jotdown.es/)
+* [Mercurio](https://www.revistamercurio.es/)
 
 ### Misceláneo
 
-* [Luna Cornea](https://ci.cultura.gob.mx/luna-cornea/)
+* [Luna Córnea](https://ci.cultura.gob.mx/luna-cornea/)
 * [Bienal de Ilustración](https://bienaldeilustracion.com/)
 * [Bienal de Pintura Rufino Tamayo](https://www.museotamayo.org/publicaciones)
 * [Bienal J.A. Monroy](https://bienaljamonroy.udg.mx/ediciones-anteriores)
