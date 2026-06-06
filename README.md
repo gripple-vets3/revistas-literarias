@@ -119,6 +119,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Enpoli](https://enpoli.com.mx/)
 * [Metamorfosis](https://drive.google.com/drive/folders/1tiuU5ctj4N2059JfurHR0gki_gWBH_2z)
 * [La Peste](https://web.archive.org/web/20230923034919/https://lapeste.mx/nueva/) (algunos numeros)
+* [Campo de relámpagos](https://web.archive.org/web/20221204183340/http://campoderelampagos.org/archivo)
 
 #### Costa Rica
 
