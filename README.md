@@ -8,7 +8,7 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 
 **imaginación**. f. Programa que permite acceder a información sobre un tema determinado. ǁ _Lugar para jugar_."
 
-[#Contralgoritmia](https://contralgoritmia.com/) [#](https://contralgoritmia.com/wp-content/uploads/2025/02/sellos_contralgoritmo01-300x300.png)
+[#Contralgoritmia](https://contralgoritmia.com/) [~~[01]~~](https://contralgoritmia.com/wp-content/uploads/2025/02/sellos_contralgoritmo01-300x300.png)
 
 ## Contenidos
 
@@ -64,11 +64,13 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 
 ### Notas aclaratorias
 
-1. A la hora de jugar con las palabras, puede ser útil utilizar los [operadores comunes de Google](https://static.platzi.com/media/user_upload/operadores-google-9bf800c7-064f-4896-bb96-d102308db37f.jpg), para ser mas creativo en tu extravío.
+1. A la hora de jugar con las palabras, puede ser útil utilizar los [operadores comunes de Google](https://static.platzi.com/media/user_upload/operadores-google-9bf800c7-064f-4896-bb96-d102308db37f.jpg), para ser mas creativo al momento de extraviarse.
 2. Para mejorar la experiencia, convendría tener instalado una extensión en el navegador para evitar que archivos PDF se descarguen automáticamente.
-3. Es posible agregar este organillero (¡Sí!, se escucha mejor que cilindrero) a los buscadores personalizados de un navegador usando "%s".
-4. Existen en los archivos de estas revistas (y de muchas otras) contenidos que están mal escaneados o son inaccesibles al no estar escaneados por OCR, o que tengan un visualizador que no es de ninguna forma un archivo que pueda ser reconocido por Google a la hora de hacer una búsqueda, por lo que si te interesa el flâneur o la errancia entre revistas, podrías consultar las redes o los repositorios de [Péndola](https://pendola.mx/).
-5. Todo esto es una recopilación para nada selecta y un reflejo de mi tiempo libre. La mayoría se encuentra registrada en el Centro de Información Cultural (SIC) de México, siendo las que personalmente considero que pueden tener algún tipo de contenido que sea al menos "divertido" navegar entre sus caracteres. Por tanto, si has leído hasta aquí (estarías casi tan perdido como yo), sería interesante que aportaras alguna revista de tu localidad o país dentro de la sección dispuesta debajo para organizar todas las variedades que existen que den por pauta a la divulgación de algún tipo de narrativa, poesía o ensayo, que por medio de la cultura ayudan (a veces solo por accidente) a comprender mejor nuestro mundo.
+3. Usar el operador "filetype:pdf" permite acceder a artículos que no aparecerían en los resultados tan fácilmente.
+4. Arrojar palabras aleatorias puede no sólo ser una opción, quizá necesario también.
+5. Es posible agregar este organillero (¡Sí!, se escucha mejor que cilindrero) a los buscadores personalizados de un navegador usando "%s".
+6. Existen en los archivos de estas revistas (y de muchas otras) contenidos que están mal escaneados o son inaccesibles al no estar escaneados por OCR, o que tengan un visualizador que no es de ninguna forma un archivo que pueda ser reconocido por Google a la hora de hacer una búsqueda, por lo que si te interesa el flâneur o la errancia entre revistas, podrías consultar las redes o los repositorios de [Péndola](https://pendola.mx/).
+7. Todo esto es una recopilación para nada selecta y un reflejo de mi tiempo libre. La mayoría de revistas se encuentran registradas en distintos directorios como Latindex o el Centro de Información Cultural (SIC) de México, siendo las que personalmente considero que pueden tener algún tipo de contenido que sea al menos "divertido" navegar entre sus caracteres. Por tanto, si has leído hasta aquí (estarías casi tan perdido como yo), sería interesante que aportaras alguna revista de tu localidad o país dentro de la sección dispuesta debajo para organizar todas las variedades que existen que den por pauta a la divulgación de algún tipo de narrativa, poesía o ensayo, que por medio de la cultura ayudan (a veces solo por accidente) a comprender mejor nuestro mundo.
 
 ### Explora
 
