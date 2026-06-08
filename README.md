@@ -131,6 +131,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Revistas Culturales de Cordoba](https://archivorec.ar/)
 * [Por el camino de puan](https://porelcaminodepuan.com.ar/quienes-somos/)
 * [Buenos Aires Poetry](https://buenosairespoetry.com/)
+* [Otra Parte](https://www.revistaotraparte.com/revista-impresa/)
 
 #### Colombia
 
