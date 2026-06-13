@@ -155,6 +155,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 #### Venezuela
 
 * [Letralia](https://letralia.com/)
+* [Revista POESIA](https://servicio.bc.uc.edu.ve/educacion/poesia/index.htm)(archivo)
 
 #### Puerto Rico
 
