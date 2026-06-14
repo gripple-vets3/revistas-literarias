@@ -120,6 +120,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Metamorfosis](https://drive.google.com/drive/folders/1tiuU5ctj4N2059JfurHR0gki_gWBH_2z)
 * [La Peste](https://web.archive.org/web/20230923034919/https://lapeste.mx/nueva/) (algunos numeros)
 * [Campo de relámpagos](https://web.archive.org/web/20221204183340/http://campoderelampagos.org/archivo)
+* [Palabras Malditas](https://web.archive.org/web/20080720084034/http://www.palabrasmalditas.net/portada/) (archivo)
 
 #### Costa Rica
 
@@ -173,6 +174,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [HermanoCerdo](https://hermanocerdo.com/)
 * [Jot Down](https://www.jotdown.es/)
 * [Mercurio](https://www.revistamercurio.es/)
+* [Cuadernos Hispanoamericanos](https://www.cervantesvirtual.com/partes/235792/cuadernos-hispanoamericanos-80) (archivo)
 
 ### Misceláneo
 
