@@ -151,6 +151,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Cinosargo](https://www.cinosargo.cl/)
 * [Carcaj](https://carcaj.cl/)
 * [Palabra pública](https://palabrapublica.uchile.cl/edicion-impresa/)
+* [Oropel](https://revistaoropel.cl/)
 
 #### Venezuela
 
@@ -177,14 +178,16 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 
 ### Misceláneo
 
-* [Luna Córnea](https://ci.cultura.gob.mx/luna-cornea/)
-* [Bienal de Ilustración](https://bienaldeilustracion.com/)
-* [Bienal de Pintura Rufino Tamayo](https://www.museotamayo.org/publicaciones)
-* [Bienal J.A. Monroy](https://bienaljamonroy.udg.mx/ediciones-anteriores)
+* [Luna Córnea](https://ci.cultura.gob.mx/luna-cornea/) (fotografía)
+* [Bienal de Ilustración](https://bienaldeilustracion.com/) (ilustración)
+* [Bienal de Pintura Rufino Tamayo](https://www.museotamayo.org/publicaciones) (ilustración)
+* [Bienal J.A. Monroy](https://bienaljamonroy.udg.mx/ediciones-anteriores) (ilustración)
 * [Catálogo Histórico Conaliteg](https://historico.conaliteg.gob.mx/)
-* [MUAC](https://muac.unam.mx/publicaciones)
-* [Museo Jumex](https://www.fundacionjumex.org/es/explora/publicaciones?utm_source=ig&utm_medium=social)
-* [Casa del Lago](https://casadellago.unam.mx/nuevo/archivo/publicaciones)
-* [Revistas de ficción latinoamericana](https://ficclat.github.io/ficclat/publicaciones/)
-* [Blast](https://revistablast.com/)
-* [Jot Down Cómics](https://comics.jotdown.es/)
+* [MUAC](https://muac.unam.mx/publicaciones) (arte contemporaneo)
+* [Museo Jumex](https://www.fundacionjumex.org/es/explora/publicaciones?utm_source=ig&utm_medium=social) (arte contemporaneo)
+* [Casa del Lago](https://casadellago.unam.mx/nuevo/archivo/publicaciones) (arte contemporaneo)
+* [Revistas de ficción latinoamericana](https://ficclat.github.io/ficclat/publicaciones/) (ciencia ficción)
+* [Blast](https://revistablast.com/) (cómic/novela gráfica)
+* [Jot Down Cómics](https://comics.jotdown.es/) (cómic/novela gráfica)
+* [La ciencia y el hombre](https://www.uv.mx/cienciauv/seccion/revista/) (ciencia)
+* [Ciencias y humanidades](https://web.archive.org/web/20250422223217/https://secihti.mx/category/publicaciones-conacyt/ciencias-y-humanidades/) (ciencia) (algunos números)
