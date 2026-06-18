@@ -82,6 +82,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Cultural Magazines of Latin America](https://digital.iai.spk-berlin.de/viewer/collections/lateinamerikanische-kulturzeitschriften/)
 * [Temporales](https://wp.nyu.edu/gsas-revistatemporales/)
 * [Tres Orillas](https://tresorillas.com/)
+* [Revistas literarias digitales en español](https://silviazuletaromano.com/la-guarida-de-ficcion/revistas-literarias-digitales-en-espanol/)
 
 #### Mexico
 
