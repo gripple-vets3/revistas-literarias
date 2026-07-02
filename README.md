@@ -193,3 +193,6 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Jot Down Cómics](https://comics.jotdown.es/) (cómic/novela gráfica)
 * [La ciencia y el hombre](https://www.uv.mx/cienciauv/seccion/revista/) (ciencia)
 * [Ciencias y humanidades](https://web.archive.org/web/20250422223217/https://secihti.mx/category/publicaciones-conacyt/ciencias-y-humanidades/) (ciencia) (algunos números)
+* [Gatopardo](https://www.gatopardo.com/) (crónica)
+* [Anfibia](https://www.revistaanfibia.com/) (crónica)
+* [La Tempestad](https://www.latempestad.mx/) (arte/actualidad)
