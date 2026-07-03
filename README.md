@@ -138,6 +138,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 
 * [Gaceta](https://gaceta.co/etapas-gaceta/etapa-2/)
 * [La raíz invertida](https://www.laraizinvertida.com/)
+* [Arquitrave](https://www.arquitrave.com/archivo-69-2021.html)
 
 #### Peru
 
