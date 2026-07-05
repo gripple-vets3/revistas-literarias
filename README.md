@@ -178,6 +178,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Mercurio](https://www.revistamercurio.es/)
 * [Cuadernos Hispanoamericanos](https://www.cervantesvirtual.com/partes/235792/cuadernos-hispanoamericanos-80) (archivo)
 * [Zenda Libros](https://www.zendalibros.com/)
+* [NARRATIVAS](https://www.revistanarrativas.com/)
 
 ### Misceláneo
 
