@@ -54,7 +54,7 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 * [Periodico de poesia (archivo)](https://archivopdp.unam.mx/)
 * [Punto de partida](https://puntodepartida.unam.mx/)
 * [Otros dialogos](https://otrosdialogos.colmex.mx/)
-* [Hablar de poesía](https://hablardepoesia-numeros.com.ar/)
+* [Jot Down](https://www.jotdown.es/)
 * [Letras Libres](https://letraslibres.com/)
 * [Replicante](https://revistareplicante.com/)
 * [Timonel](https://revistatimonel.com)
@@ -113,6 +113,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Tianguis de Letras](https://publicaciones.uacm.edu.mx/boletin-tianguis-de-letras)
 * [Purgante](https://revistapurgante.com/)
 * [Pirocromo](https://revistas.uaa.mx/pirocromo/issue/archive)
+* [Redoma](https://revistas.uaz.edu.mx/index.php/redoma/issue/archive)
 * [Aion](https://aion.mx/)
 * [Marabunta](https://revistamarabunta.net/)
 * [Revista 404](https://centroculturadigital.mx/revista-404)
@@ -133,12 +134,15 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Por el camino de puan](https://porelcaminodepuan.com.ar/quienes-somos/)
 * [Buenos Aires Poetry](https://buenosairespoetry.com/)
 * [Otra Parte](https://www.revistaotraparte.com/revista-impresa/)
+* [Hablar de poesía](https://hablardepoesia-numeros.com.ar/)
+* [Orsai](https://revista.orsai.org/)
 
 #### Colombia
 
 * [Gaceta](https://gaceta.co/etapas-gaceta/etapa-2/)
 * [La raíz invertida](https://www.laraizinvertida.com/)
 * [Arquitrave](https://www.arquitrave.com/archivo-69-2021.html)
+* [Revistas en red](https://amariaagudelo.github.io/revlit/archivo/)
 
 #### Peru
 
@@ -174,7 +178,6 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Edad de la plata](http://www.edaddeplata.org/revistas_edaddeplata/)
 * [Ethic](https://ethic.es/)
 * [HermanoCerdo](https://hermanocerdo.com/)
-* [Jot Down](https://www.jotdown.es/)
 * [Mercurio](https://www.revistamercurio.es/)
 * [Cuadernos Hispanoamericanos](https://www.cervantesvirtual.com/partes/235792/cuadernos-hispanoamericanos-80) (archivo)
 * [Zenda Libros](https://www.zendalibros.com/)
