@@ -83,6 +83,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Temporales](https://wp.nyu.edu/gsas-revistatemporales/)
 * [Tres Orillas](https://tresorillas.com/)
 * [Revistas literarias digitales en español](https://silviazuletaromano.com/la-guarida-de-ficcion/revistas-literarias-digitales-en-espanol/)
+* [Brújula PDP](https://puntodepartida.unam.mx/wp-content/uploads/2008/04/111-brujula.pdf)
 
 #### Mexico
 
