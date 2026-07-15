@@ -91,6 +91,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [La otra](https://www.laotrarevista.com/la-otra-revista-impresa-en-linea/) (archivo)
 * [La palabra y el hombre](https://cdigital.uv.mx/collections/5b7d2054-cc69-44aa-a4dc-435865e09195) (archivo)
 * [Timonel](https://revistatimonel.com/archivo/) (archivo)
+* [Invndación Castálida](https://revistas.elclaustro.mx/index.php/inundacion_castalida/issue/archive)
 * [Museo Soumaya](https://www.museosoumaya.org/revistas-anteriores/)
 * [Estudios](https://estudios.itam.mx/es)
 * [La Colmena](https://lacolmena.uaemex.mx/issue/archive)
